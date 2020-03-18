@@ -13,7 +13,7 @@ namespace Ahorcado
     public partial class Form1 : Form
     {
         //ALmacena la palabra que hay que adivinar
-        String palabraOculta = "CE";
+        String palabraOculta = "CETYS";
         //Varaible que almacena el numero de fallos
         int numeroFallos = 0;
 
